@@ -1,0 +1,6 @@
+This code deploys site from tilda.ws on your server via API.
+
+* Fill config.php
+* Put files on server
+* Open this url in browser: <your-site-address>/install.php
+* Profit!
